@@ -5,8 +5,11 @@ In this project we implemented different MCMC techniques and applied them to ima
 ## Deterministic Annealing
 Implementation of the DA algorithm according to Deterministic annealing for clustering, compression, classification, regression, and related optimization problems and empirical analysis of its phase transition behaviour.
 <br/><br/>
+## Histogram Clustering
+We implemented Histogram Clustering for Image Segmentation, both via maximum a posterior probability (MAP) and deterministic annealing (DA) for predicting the cluster membership for each pixel. 
+<br/><br/>
 ## Constant Shift Embedding
 We implemented Constant Shift Embedding (CSE), a method in which we embed pairwise clustering problems (where data points may lie in a discrete structure, such as a graph) in vector spaces in order to render classical clustering techniques in vector spaces (e.g. K-Means) available
 <br/><br/>
-##
+
 
